@@ -8,14 +8,6 @@
 I will goes into a summary of how the 'internet search' was created. This will then lead a summary of how Google became the center stage as the popular web browser. </p>
 
 
-### Website General Info
-1) Navigator was the first commerically successul web browser and it brought the average person to the world wide web. However, Microsoft Explorer forced Navigator out the web browser market space.
-2) Browser Wars, Microsoft Explorer, Navigator, Netscape, Mosaic
-3) Browser Wars: How Microsoft Explorer defeated Navigator 
-4) Browser Wars
-5) Microsoft Explorer created a monoploy to dominate the web browser market 
-6) Menu= Homepage, Web Browsers, Navigator vs. Explorer, Microsoft's strategy, Bill Gates anti-trust case
-
 
 Page 1
 1) Menu Link?
