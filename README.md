@@ -1,18 +1,9 @@
-## Homework2 
+##### Homepage  &nbsp; &nbsp;  What are Web Browsers? &nbsp; &nbsp; Naviagator vs Internet Explorer &nbsp; &nbsp; &nbsp;  Anti-trust case  &nbsp;
 
-### General Info
-#### Ashley Joseph and Claire Wang
+# The First Browser Wars 
+#### When the  web browsers were first created, they were engaged in a struggle to control the web broswer market. The opposing sides were Microsoft and Netscape, each influential to the web browsers we use today.
 
-<p> A summary of the Browser Wars between Microsoft and Netscape. I want people to understand that Netscape was the first to make a user-friendly web browser and Microsoft followed after them. However, Microsoft quickly captured the web browser market because of the monoploy it created with its PCs. 
+<img src= "https://user-images.githubusercontent.com/85362067/122090823-2efd9c00-cdd6-11eb-9ec3-022d4f3d18dc.jpg" alt= "timeline of Internet Explorer and Navigator">
 
-I will goes into a summary of how the 'internet search' was created. This will then lead a summary of how Google became the center stage as the popular web browser. </p>
+##### 
 
-
-
-Page 1
-1) Menu Link?
-2) Page Title = Browser Wars
-3) Description= Windows was considered a giant in the tech world but a new company known as Netscape proved to be a challenge. Netscape, launched Naviagator, the first commerically successful web browser. Bill Gates did not see the potential for a web browser and ignored Netscape until they grew to be a threat. Bill Gates realized he needed to create a web browser to compete with Navigator and this launched the start of the Browser Wars, where each company was trying to compete for the market share.
-4) Keywords=................
-5) Page Layout= Z layout
-6) Page content= 
