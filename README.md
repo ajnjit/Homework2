@@ -3,7 +3,8 @@
 ### General Info
 #### Ashley Joseph and Claire Wang
 
->> Back to **INTERNET HISTORY TIMELINE** page, click ==> https://github.com/clairenjit369/IS601_HW02_part02.git
+Claire Wang's Website Outline
+> Back to **INTERNET HISTORY TIMELINE** page, click ==> https://github.com/clairenjit369/IS601_HW02_part02.git
 
 <p> A summary of the Browser Wars between Microsoft and Netscape. I want people to understand that Netscape was the first to make a user-friendly web browser and Microsoft followed after them. However, Microsoft quickly captured the web browser market because of the monoploy it created with its PCs. 
 
