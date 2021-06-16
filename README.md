@@ -14,13 +14,13 @@ I will goes into a summary of how the 'internet search' was created. This will t
 3) Browser Wars: How Microsoft Explorer defeated Navigator 
 4) Browser Wars
 5) Microsoft Explorer created a monoploy to dominate the web browser market 
-6) Menu= Homepage, Web Browsers, Navigator vs. Explorer, Microsoft's strategy, Bill Gates anti-trust case
+6) Menu= Homepage, What are Web Browsers?, Navigator vs. Explorer, Bill Gates anti-trust case
 
 
 Page 1
 1) Menu Link?
 2) Page Title = Browser Wars
 3) Description= Windows was considered a giant in the tech world but a new company known as Netscape proved to be a challenge. Netscape, launched Naviagator, the first commerically successful web browser. Bill Gates did not see the potential for a web browser and ignored Netscape until they grew to be a threat. Bill Gates realized he needed to create a web browser to compete with Navigator and this launched the start of the Browser Wars, where each company was trying to compete for the market share.
-4) Keywords=................
+4) Keywords= Navigator, Microsoft Internet Explorer  
 5) Page Layout= Z layout
 6) Page content= 
