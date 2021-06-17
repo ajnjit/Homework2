@@ -39,5 +39,9 @@ Page 2
 3) Description= In order to understand the Browser Wars, people need to understand the importance of web browsers. They will also need to understand the difference betweent the internet, World Wide Web, and Web Browsers. 
 4) Keywords= Web Browsers, Mosaic, World Wide Web, Internet
 5) Page Layout= F layout
- 
+6) Page content= It's important to understand what web browsers before understanding the Browser Wars. To understand a web browser, let's differentiate between the Internet, World Wide Web, and Web Browsers.
++ Internet= is a global network of connected computers.
++ World Wide Web= a network of websites. Founded by Tim Berner's Lee in 1980, he noticed that webpages could be connected to each other like a web. Hence the "World Wide Web"
++ Web Browser= 
+8) Side Bar content
 
