@@ -12,7 +12,7 @@ I will goes into a summary of what browser wars, the history of the first browse
 
 
 ### Website General Info
-1) Navigator was the first commerically successul web browser and it brought the average person to the world wide web. However, Microsoft Explorer forced Navigator out the web browser market space.
+1) Navigator was the first commerically successful web browser and it brought the average person to the world wide web. However, Microsoft Explorer forced Navigator out the web browser market space.
 2) KEYWORDS= Browser Wars, Microsoft Explorer, Navigator, Netscape, Mosaic
 3) WEBSITE TITLE= Browser Wars: How Microsoft Explorer defeated Navigator 
 4) PAGE TITLE= Browser Wars
