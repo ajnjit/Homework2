@@ -8,7 +8,7 @@ Claire Wang's Website Outline
 
 <p> A summary of the Browser Wars between Microsoft and Netscape. I want people to understand that Netscape was the first to make a user-friendly web browser and Microsoft followed after them. However, Microsoft quickly captured the web browser market because of the monoploy it created with its PCs. 
 
-I will goes into a summary of how the 'internet search' was created. This will then lead a summary of how Google became the center stage as the popular web browser. </p>
+I will goes into a summary of what browser wars, the history of the first browser, and finally explain how the browser wars happened. </p>
 
 
 ### Website General Info
@@ -35,7 +35,7 @@ Page 1
 12) Side bar image 2 =![Marc Andreessen](https://user-images.githubusercontent.com/85362067/122264205-435c9a00-cea5-11eb-833f-32d5444db322.jpg)
 
 Page 2
-1) Menu Link= Browser Wars, What are Web Browsers?, Navigator vs Explorer
+1) Menu Link= Browser Wars, What are Web Browsers?, Navigator vs Internet Explorer
 2) Page Title= What are Web Browsers?
 3) Description= In order to understand the Browser Wars, people need to understand the importance of web browsers. They will also need to understand the difference betweent the internet, World Wide Web, and Web Browsers. 
 4) Keywords= Web Browsers, Mosaic, World Wide Web, Internet
@@ -53,4 +53,32 @@ Now let's move onto the history of the web browser. The first web browser could 
 8) Side Bar content= an image of how Mosaic looked like. <br>
 9) Side bar image 1= ![Snapshot of Mosaic browser](https://user-images.githubusercontent.com/85362067/122461648-9efc5580-cf81-11eb-9d76-0725788625aa.jpg)
 
+Page 3
+1) Menu Link= Browser Wars, What are Browsers?, Navigator vs Internet Explorer
+2) Page Title= Navigator vs Internet Explorer
+3) Description= Mosaic led the way for Navigator to emerge. Mirosoft didn't see the importance of web browsers until they saw Navigator's success. This pushed them to take a new look at making web browsers. The war happened because of the difference of attitudes from each company. Microsoft offered to buy Netscape but from Netscape's perspective, it was condescending and belittling. This animosity would lead each company into the Browser War.
+4) Keywords= Mosaic, Navigator, Microsoft Internet Explorer, Bill Gates
+5) Page Layout: F layout
+6) Page Content: Figure 1.![Snapshot of Navigator and Internet Explorer](https://user-images.githubusercontent.com/85362067/122476005-7ed59200-cf93-11eb-92ce-1b52f968b443.jpg)
 
+<br> James Clark, was a wealthy investor and he saw the potential of Mosaic and funded it. James Clark and Andreessen named their company Netscape, and continued to innovate Mosaic. On October 13, 1994 Netscape cast Navigator and it was a success, creating the Internet Age. After Navigator reached a million downloads, Gates finally realized the error of his ways and realized that his company needed to match and defeat Netscape. Bill Gates ignored Netscape until this point because he was more focused on making sure that the public used his line of personal computers.<br> 
+
+<br> **Gates was a giant in the tech world because of his control on personal computers and competitors either lost to Microsoft or they were bought by Microsoft.** <br>
+
+<br> This would be a foreshadow of what would happen to Netscape. 
+So, on June 1995 Microsoft and Netscape sat down for a meeting to talk about future endeavors. To this day, no one really knows what happened here but whatever the case, there were two different sides. From Microsoft's point of view, they were generous to buy Netscape and all of its existing applications. From Netscape's point of view, it was belittling because Microsoft didn't give them a big enough paycheck to justify buying their entire business so they turned Microsoft down. This difference in attitudes pushed each company to create/improve their web browsers to beat each other. 
+
+On August 1995, Netscape went public and made an insane amount of money. James Clark made around $600 million dollars and everyone else made millions of dollars as well. Unfortunately, this success made Marc Andreessen openly bad mouth Bill Gates and his company. This was a mistake because they made Bill Gates focus his entire energy on squashing Netscape. A couple of days after Navigator went public, Microsoft released their web browser: Microsoft Internet Explorer Version 1. This web browser was built on the code that Marc Andreessen made for Mosaic. Compared to its competitor, it didn't stand a chance. 
+
+However, on December 7, 1995, the same day as when Japan attacked Pearl Harbor, Bill Gates held a conference announcing the launch of Internet Explorer Version 2.
+
+Page image= ![Internet Explorer Verison 2](https://user-images.githubusercontent.com/85362067/122482365-68810380-cf9e-11eb-828d-b4f42ecb64a1.png)
+
+With this launch, Bill Gates made it clear he wasn't planning on competiting in the web browser markert, he wanted to control it. With this launch, Netscape and Microsoft produced minor changes in their web browsers month after month to draw in consumers. This can be seen by the snapshot of both browsers in Figure 1. On October 7, 1997 Microsoft launched Internet Explorer Version 4. This was free and was already installed with Windows Operating System. This meant that consumers did not have to buy a web browser (like Navigator) and because it was free and already installed, consumers went to Microsoft. 
+
+Page Image= ![Internet Explorer Version 4](https://user-images.githubusercontent.com/85362067/122482570-d1687b80-cf9e-11eb-8dfd-96067c48e78b.png)
+
+By 2001, the Browser war finally ended because Internet Explorer officially took over the majority control of browsers and Netscape was bought by a different company, AOL (American Online) for 4 billion dollars. 
+
+8) Footer Menu: Home, Gallery, FAQ, Contact
+9) About: 
