@@ -20,7 +20,7 @@ I will goes into a summary of what browser wars, the history of the first browse
 6) Menu= Homepage, What are Web Browsers?, Navigator vs. Explorer
 
 
-Page 1
+### Page 1
 1) Menu Link= Browser Wars, What are Web Browsers?, Navigator vs. Explorer
 2) Page Title = Browser Wars
 3) Description= Windows was considered a giant in the tech world but a new company known as Netscape proved to be a challenge. Netscape, launched Naviagator, the first commerically successful web browser. Bill Gates did not see the potential for a web browser and ignored Netscape until they grew to be a threat. Bill Gates realized he needed to create a web browser to compete with Navigator and this launched the start of the Browser Wars, where each company was trying to compete for the market share.
@@ -34,10 +34,10 @@ Page 1
 11) Side bar text 2= Marc Andreeson, helped create Mosaic, in 1993, the first graphical web browser. It had images, audio, and other factors to make the webs surfing more user-friendly. Mosaic would eventually turn into Navigator, the first commerically successful web browser. 
 12) Side bar image 2 =![Marc Andreessen](https://user-images.githubusercontent.com/85362067/122264205-435c9a00-cea5-11eb-833f-32d5444db322.jpg)
 
-Page 2
+### Page 2
 1) Menu Link= Browser Wars, What are Web Browsers?, Navigator vs Internet Explorer
 2) Page Title= What are Web Browsers?
-3) Description= In order to understand the Browser Wars, people need to understand the importance of web browsers. They will also need to understand the difference betweent the internet, World Wide Web, and Web Browsers. 
+3) Description= In order to understand the Browser Wars, people need to understand the importance of web browsers. They will also need to understand the difference between the internet, World Wide Web, and Web Browsers. 
 4) Keywords= Web Browsers, Mosaic, World Wide Web, Internet
 5) Page Layout= F layout
 6) Page content= ![www url](https://user-images.githubusercontent.com/85362067/122461025-d28ab000-cf80-11eb-873a-79ae83a0960b.jpg)
@@ -54,7 +54,7 @@ Marc Andeerssen wanted a web browser that was user friendly, meaning he wanted s
 8) Side Bar content= an image of how Mosaic looked like. <br>
 9) Side bar image 1= ![Snapshot of Mosaic browser](https://user-images.githubusercontent.com/85362067/122461648-9efc5580-cf81-11eb-9d76-0725788625aa.jpg)
 
-Page 3
+### Page 3
 1) Menu Link= Browser Wars, What are Browsers?, Navigator vs Internet Explorer
 2) Page Title= Navigator vs Internet Explorer
 3) Description= Mosaic led the way for Navigator to emerge. Mirosoft didn't see the importance of web browsers until they saw Navigator's success. This pushed them to take a new look at making web browsers. The war happened because of the difference of attitudes from each company. Microsoft offered to buy Netscape but from Netscape's perspective, it was condescending and belittling. This animosity would lead each company into the Browser War.
