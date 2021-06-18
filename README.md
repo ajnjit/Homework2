@@ -31,7 +31,7 @@ Page 1
 8) Side bar content 1= Brief bio about Bill Gates and Marc Andreessen 
 9) Side bar text 1= Bill Gates was the CEO of Microsoft. He had the ambitious dream and providing everyone with a PC. This would become a reality because Gates was a giant in the tech world and felt more powerful than the president. 
 10) Side bar image 1= ![Bill Gates](https://user-images.githubusercontent.com/85362067/122264018-1314fb80-cea5-11eb-9f20-a203e119fa15.jpg)
-11) Side bar text 2= Marc Andreeson, helped create Mosaic, in 1993, the first graphical web browser. It had images, audio, and other factors to make the webs surfing more user-friendly. Mosaic would eventually turn into Navigator, the first commerically successful web browse. 
+11) Side bar text 2= Marc Andreeson, helped create Mosaic, in 1993, the first graphical web browser. It had images, audio, and other factors to make the webs surfing more user-friendly. Mosaic would eventually turn into Navigator, the first commerically successful web browser. 
 12) Side bar image 2 =![Marc Andreessen](https://user-images.githubusercontent.com/85362067/122264205-435c9a00-cea5-11eb-833f-32d5444db322.jpg)
 
 Page 2
