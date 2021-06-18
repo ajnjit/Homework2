@@ -50,6 +50,7 @@ I will goes into a summary of what browser wars, the history of the first browse
 + Web Browser= A software that allows a person to access the World Wide Web and view all the webpages. When a user rquests a web page, the web browser retrieves the necessary files from the web server and then displays the content. <br>
 
 Now let's move onto the history of the web browser. The first web browser could be attributed to the WWW because it allowed people to view all the webpages. In the case of the Browser Wars, the 'first' web browser to be discussed would be Mosaic. Mosaic was created in 1993 by Marc Andeerssen and Eric Bina. Both were computer science students who had experience with working on the internet. At this point, a few web browsers existed but it was only in certain circles of computer science professional because it was expensive and it worked on certain devices. <br>
+
 Marc Andeerssen wanted a web browser that was user friendly, meaning he wanted something easy to use and see. Mosaic was credited as the first web browser that brought more people to the World Wide Web because it was easy to use. Mosaic was also the first to include images embedded in the web pages which made it pleasing to it users. Additionally, future web browsers were built off Mosaic's application. <br>
 8) Side Bar content= an image of how Mosaic looked like. <br>
 9) Side bar image 1= ![Snapshot of Mosaic browser](https://user-images.githubusercontent.com/85362067/122461648-9efc5580-cf81-11eb-9d76-0725788625aa.jpg)
