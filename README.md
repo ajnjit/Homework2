@@ -81,5 +81,8 @@ Page Image= ![Internet Explorer Version 4](https://user-images.githubusercontent
 
 By 2001, the Browser war finally ended because Internet Explorer officially took over the majority control of browsers and Netscape was bought by a different company, AOL (American Online) for 4 billion dollars. 
 
-8) Footer Menu: Home, Gallery, FAQ, Contact
-9) About: 
+7) Side bar image: ![James Clark](https://user-images.githubusercontent.com/85362067/122487394-2c9f6b80-cfa9-11eb-928e-cd5624be24be.jpg)
+8) Side bar content: James Clark is an entrepeneur and computer scientist. He's many successful startups such as Silicon Graphics and Netscape Communications. He saw the potential in Mosaic (later changed to Netscape) and invested $4 million dollars into, when Netscape went public, he walked away with $600 million.
+
+8) Footer Menu: Home, Gallery, FAQ, Additional Resources
+9) About: Contact Us, Follow Us
